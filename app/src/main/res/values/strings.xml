@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Registro Cliente</string>
+    <string name="editar_nombre">Nombre</string>
+    <string name="editar_apellido">Apellido</string>
+    <string name="editar_correo">Correo electrónico: nombre@example.com</string>
+    <string name="editar_id">Identificador</string>
+    <string name="btn_aceptar">Agregar</string>
+    <string name="btn_Buscar">Buscar</string>
+    <string name="btn_Modificar">Modificar</string>
+    <string name="btn_Eliminar">Eliminar</string>
+    <string name="img_Item">Customer image</string>
+    <string name="cli_apellido">Apellido</string>
+    <string name="cli_img">Imagen</string>
+    <string name="cli_correo">Correo</string>
+    <string name="customerImage">Imagen del cliente</string>
+    <string name="customerName">Nombre del cliente</string>
+    <string name="customerLastname">Apellido del cliente</string>
+    <string name="customerEmail">Email del cliente</string>
+    <string name="customerId">Id del cliente</string>
+    <string name="cargar_img">Cargar imagen</string>
+</resources>
